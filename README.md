@@ -1,6 +1,6 @@
 # SQL Project
-![hippo](https://giphy.com/gifs/Giflytics-jazminantoinette-roll-safe-giflytics-GbH8vRmrNHdVZhouBt.gif")
-
+[![hippo](https://giphy.com/gifs/Giflytics-jazminantoinette-roll-safe-giflytics-GbH8vRmrNHdVZhouBt.gif")
+](https://media.giphy.com/media/GbH8vRmrNHdVZhouBt/giphy.gif)
 
 
 ### :nut_and_bolt: **Deployment**
