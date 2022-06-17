@@ -9,3 +9,6 @@ notebook==6.4.12
 mysql-connector-python==8.0.29
 SQLAlchemy==1.4.37
 pymysql==1.0.2
+ipykernel==6.15.0
+jupyter-conda=3.4.1
+tabulate==0.8.9

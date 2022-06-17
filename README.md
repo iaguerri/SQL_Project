@@ -43,24 +43,18 @@ The installation process is the next:
 ```
 
 
-
-### :computer: **Technology stack**
-In this case, the technologies used are based on Python.
-
-- :bar_chart: The libraries included are the ones needed for DataCleaning : Pandas, Numpy, Matplotlib.
-
-- The system is standalone.
-
 ------
-### :boom: **Analysis developed**
-The analysis made include the several steps for data cleaning
-1. Erase missing values (~ 18000 rows)
-2. Incorrect data types
-3. Duplicate rows
-4. Handling missing values
-5. Standardization
-6. Normalization
-7. Verification & enrichment of the data
+
+### :boom: **Steps developed**
+
+#### **1. Data cleaning**
+- Check null values (none)
+- Check duplicate values(none)
+- Erase column `last_update` from every table
+- Erase column  `original_language_id`
+- change data types (datetime)
+- Save as CSV in folder /data (overwritten)
+
    
 
 ----
