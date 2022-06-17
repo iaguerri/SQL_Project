@@ -1,5 +1,5 @@
 # SQL Project
-![](https://giphy.com/gifs/Giflytics-jazminantoinette-roll-safe-giflytics-GbH8vRmrNHdVZhouBt.gif")
+![]([https://giphy.com/gifs/Giflytics-jazminantoinette-roll-safe-giflytics-GbH8vRmrNHdVZhouBt.gif](https://media3.giphy.com/media/GbH8vRmrNHdVZhouBt/giphy.gif?cid=ecf05e47xx4gwpfo6qjkn59elsczsade7eij9mtitt2tvmvi&rid=giphy.gif&ct=g)")
 
 
 
