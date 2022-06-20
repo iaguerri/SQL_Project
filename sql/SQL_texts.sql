@@ -58,7 +58,11 @@ ADD CONSTRAINT `fk_inventory_rental1`
 CREATE INDEX `fk_inventory_film1_idx` ON `sql_db`.`inventory` (`film_film_id` ASC) VISIBLE;
 CREATE INDEX `fk_inventory_rental1_idx` ON `sql_db`.`inventory` (`rental_rental_id` ASC) VISIBLE;
 
-ALTER TABLE  `sql_db`.`inventory` ADD FOREIGN KEY (`inventory_id`) REFERENCES points(id);
+ALTER TABLE  `sql_db`.`inventory` ADD  CONSTRAINT `fk_inventory_film1`
+    FOREIGN KEY (`film_film_id`)
+    REFERENCES `sql_db`.`film` (`film_id`)
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION;
 
 
 ALTER TABLE  ADD FOREIGN KEY (`inventory_id`, `film_film_id`, `rental_rental_id`);

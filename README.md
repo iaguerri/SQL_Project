@@ -61,11 +61,5 @@ The installation process is the next:
 ![SQL_schema](https://user-images.githubusercontent.com/35624830/174643220-3bb24c41-08b5-4cf8-b126-f1ca738d13c9.JPG)
 
 ----
-### :pushpin: **Some insights**
 
 
-
-####
-
-
-### :shit: **ToDo**
