@@ -55,7 +55,10 @@ The installation process is the next:
 - change data types (datetime)
 - Save as CSV in folder /data (overwritten)
 
-   
+
+#### **2. Database Design**  
+
+![] (img/SQL_schema.JPG)
 
 ----
 ### :pushpin: **Some insights**
@@ -66,4 +69,3 @@ The installation process is the next:
 
 
 ### :shit: **ToDo**
-
