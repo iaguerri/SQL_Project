@@ -63,3 +63,8 @@ The installation process is the next:
 ----
 
 
+#### **2. Queries to be done** 
+1. Select the films from actor 'NICK WAHLBERG' in the inventory
+2. Select how much films from category 'Animation'
+3. Select how many actors has film with title 'ACADEMY DINOSAUR'
+4. Search rental date  and return date for film 'CENTER DINOSAUR'
